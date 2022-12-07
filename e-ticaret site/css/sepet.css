@@ -1,0 +1,281 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: Roboto,sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color:#fff;
+	margin:0px;
+	width: 100%px;
+}
+.bos_div_gri{
+	margin: auto;
+	width: 100%;
+	height: 20px;
+	background-color: #f8f8f8;
+}
+.govde{
+	width:1240px;
+	/*border:1px solid #ffffff;*/
+	margin:auto;
+	height:auto;
+}
+
+.hizalama_bitir{clear:both;}
+
+a{text-decoration:none;
+	color:#000;
+}
+.banner_ana{
+	/*border: 1px solid #000;*/
+	width: 100%;
+	height: 98px;;
+	margin: auto;
+}
+.banner_logo{
+	/*border:1px solid #000;*/
+	float:left;
+	height:50px;
+	padding:0px;
+	margin-top:24px;
+	margin-left:60px;
+	cursor:pointer;
+}
+
+.banner_div_ust{
+	/*border:1px solid #000;*/
+	background-color:#FFFFFF;
+	width:100%;
+	height:98px;
+}
+
+/*BODY BAŞLANGIÇ*/
+
+.sepet_ana_div{
+	/*border: 1px solid #000;*/
+	background-color: #f8f8f8;
+	width: 100%;
+	height: 475px;
+	margin: auto;
+}
+.sepet_govde{
+	/*border:1px solid #000;*/
+	background-color: #ffffff;
+	width:1240px;
+	margin:auto;
+	height:300px;
+	margin-bottom: 100px;
+}
+.sepet_logo{
+	/*border: 1px solid #000;*/
+	width: 81px;
+	height: 81px;
+	margin:auto;
+	margin-top: 30px;
+	margin-bottom: 25px;
+}
+
+.sepette_urun{
+	/*border: 1px solid #000;*/
+	width: 300px;
+	height: 35px;
+	text-align: center;
+	margin:auto;
+	color: #000;
+	margin-bottom: 20px;
+	font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+}
+.floda_binlerce_urun_anadiv{
+	/*border: 1px solid #000;*/
+	width: 370px;
+	height: 23px;
+	margin: auto;
+	font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    color: #525252;
+	margin-bottom: 10px;
+}
+.floda_binlerce_urun{
+	/*border: 1px solid #000;*/
+	width: 330px;
+	height: 23px;
+	font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+    color: #525252;
+	margin-bottom: 10px;
+	float: left;
+}
+.flo_turuncuyazi{
+	/*border: 1px solid #000;*/
+	color: #f60;
+	width: 35px;
+	height: 22px;
+	font-size: 18px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    text-align: center;
+	margin-bottom: 10px;
+	float: left;
+}
+.alisverise_basla{
+	border: 1px solid #f60;
+	background: #f60;
+	width: 346px;
+	height: 20px;
+	margin: auto;
+	margin-bottom: 24px;
+    padding: 12px 25px;
+    font-size: 17px;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.alisverise_basla_yazi{
+	border: 1px solid #000;
+	width:200px; 
+	height: 10px;
+	margin: auto;
+	background-color: #f60;
+    border-color: #f60;
+    color: #fff;
+	cursor: pointer;
+}
+
+/*BODY BİTİŞ*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
