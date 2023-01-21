@@ -7,4 +7,4 @@
 <h1>Detay<h1>
 ![flo_detay](https://user-images.githubusercontent.com/116731704/213869189-9353ba11-9b09-4e48-8939-d707cf0fc3f0.gif)
 <h1>Kullanıcı -Giriş -Kayıt<h1>
-< style="width=600px height=400px">![flo_giris](https://user-images.githubusercontent.com/116731704/213869209-2b51a88c-f4ee-4e47-b260-72a4c9ff3624.gif)</style>
+< style="width=600px height=400px">![flo_giris](https://user-images.githubusercontent.com/116731704/213869209-2b51a88c-f4ee-4e47-b260-72a4c9ff3624.gif)</style> 
